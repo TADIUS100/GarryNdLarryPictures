@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COACH TADIUS</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="logo">
+            <!-- Company Logo -->
+            <img src="logo.png" alt="Company Logo" width="200" height="auto">
+            <h1>Welcome to Crypto Analytic Team </h1>
+            <p>We Making It Beyond!</p>
+        </div>
+
+ </header>
+
+    <section id="advertisements">
+        <h2>Sponsored</h2>
+        <div class="ad-banner">
+            <!-- Royal Q -->
+            <a href="https://api.whatsapp.com/send?phone=256703529101" target="_blank">
+                <img src="ad-banner.jpg" alt="Advertisement Banner" width="600" height="150">
+           </a>
+    </header>
+    
+    <nav class="navbar">
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li><a href="https://royalqs.com/s/FMW5M" target="_blank">Royal Q</a></li> <!-- Royal Q link -->
+        </ul>
+    </nav>
+    
+    
+        </div>
+    </section>
+    
+    <section id="about">
+    <h2>About Me</h2>
+    <p>Hello! I'm <strong>Tadius Ssenfuka</strong>, and I'm passionate about the ever-evolving world of cryptocurrency, video editing, and IT solutions. Based in Qatar, I bring my international experience and skills to every project I work on.</p>
+    
+    <p>With extensive experience in cryptocurrency, I specialize in market analysis, trading strategies, and blockchain technology. Over the years, I’ve developed a strong understanding of crypto markets, allowing me to analyze trends, make informed investments, and guide others through the complexities of digital currencies.</p>
+
+    <p>In video editing, I've worked on a wide range of projects, from YouTube videos to promotional content and tutorials. My editing skills include everything from basic video production to advanced post-production work using tools like <strong>Adobe Premiere Pro</strong>, <strong>Final Cut Pro</strong>, and <strong>Adobe After Effects</strong>. Whether it's creating engaging content for social media or editing high-quality tutorials, I thrive on bringing ideas to life through visuals and sound.</p>
+
+    <p>In the world of IT, I have hands-on experience in troubleshooting, network setup, and solving a variety of hardware and software issues. Whether it’s fixing system errors, ensuring network security, or providing tech support, I enjoy helping others navigate IT challenges and optimize their tech environments.</p>
+
+    <p>This website was created by me, Tadius Ssenfuka, with the goal of showcasing my work and providing resources to others in the fields of crypto, video editing, and IT. As a professional based in Qatar, I bring a global perspective to all my projects and am always excited to collaborate on new ventures!</p>
+    
+    <p>Don't be Say!</p>
+</section>
+
+            </div>
+        </div>
+    </section>
+    
+    <footer id="contact" class="footer-section">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <p>Email: <a href="mailto:tadius100@gmail.com">tadius100@gmail.com</a></p> <!-- Email link -->
+            <p>Phone: <a href="tel:+256703529101">+256 703529101</a></p> <!-- Phone link -->
+            <p>Follow Me:</p>
+            <ul class="social-links">
+                <li><a href="https://www.facebook.com/ssenfuka.tadius2/" target="_blank">Facebook</a></li>
+                <li><a href="https://www.instagram.com/tadius100gram/" target="_blank">Instagram</a></li>
+                <li><a href="https://www.tiktok.com/@tadius100gram" target="_blank">TikTok</a></li>
+                <li><a href="https://www.youtube.com/channel/UC84TDM0m_e9kFdu5WahObww" target="_blank">YouTube</a></li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>
